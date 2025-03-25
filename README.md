@@ -27,4 +27,4 @@ ___
 **HOST ON DISOCOR PANNELS**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Qadeer-bhai/TOFAN-BRAND/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/Qadeer-bhai/TOFAN-BRAND/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-red" alt="Rainhost Files" width="150"></a>
