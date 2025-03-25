@@ -1,4 +1,14 @@
+***How to deploy on pannels***
 
+**1:** Click On PairCode and Link YourWhatsApp
+**2:** Copy Session ID
+**3:** Now put it to this place in the
+Confg.js where d session I'd is located then save it and move the file to panel then unarchive and move it out then deploy boom sharp you are done
+___
+**Important Info**
+Don't Enter Session here.
+Enter Your Session ID In File By Using MT Manager
+___
 
 **How to get Session ID ?**
 
@@ -10,7 +20,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-   
+ ___  
 
 **HOST ON DISOCOR PANNELS**
 <details>
