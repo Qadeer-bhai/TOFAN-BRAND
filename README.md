@@ -1,7 +1,9 @@
 ***How to deploy on pannels***
 
 **1:** Click On PairCode and Link YourWhatsApp
+___
 **2:** Copy Session ID
+___
 **3:** Now put it to this place in the
 Confg.js where d session I'd is located then save it and move the file to panel then unarchive and move it out then deploy boom sharp you are done
 ___
