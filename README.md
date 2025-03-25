@@ -12,13 +12,7 @@
 
    
 
-
-
-
-#### DEPLOY TO HEROKU 
-
-<a href="https://signup.heroku.com"><img title="CREAT-HEROKU ACCOUNT" src="https://img.shields.io/badge/CREAT-HEROKU ACCOUNT-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
-
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Qadeer-bhai/TOFAN-BRAND"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=blue&style=for-the-badge&logo=nike" width="220" height="38.45"/></a></p>
-
-
+**HOST ON DISOCOR PANNELS**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://github.com/Qadeer-bhai/TOFAN-BRAND/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
