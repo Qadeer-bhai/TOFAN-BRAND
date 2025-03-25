@@ -17,7 +17,7 @@ ___
 
 *_Click the button below to Pair Code:_*
 
-  <a href="https://pair-session-testing-5c34f970b71a.herokuapp.com/"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://session-tt-45ff527cf392.herokuapp.com/"><img title="PAIRING CODE" src="https://img.shields.io/badge/PAIR CODE-TOFAN-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
   
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
